@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    min-height: 70px;
+    background-color: red;
+    padding: 6px 100px;
+
+}
+.links{
+    display: flex;
+    gap: 20px;
+}
+.links li{
+    list-style: none;
+
+}
+.link{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
